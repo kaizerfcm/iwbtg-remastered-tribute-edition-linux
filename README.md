@@ -1,3 +1,28 @@
+## Linux build
+
+This repository hosts the **Linux x64** release of I Wanna Be The Guy: Remastered Tribute Edition.
+
+**Download:** [IWBTGR-TributeEdition-linux-x64.tar.gz](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-linux/releases/download/v1.6.6.6/IWBTGR-TributeEdition-linux-x64.tar.gz) ([latest release](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-linux/releases/latest))
+
+**Install:** x64 with glibc 2.38 or newer (Ubuntu 24.04, Fedora 39, Debian 13 or later). SDL2 is included.
+Extract the archive and run `./iwbtgr.sh`.
+
+| Keyboard (default) | Action |
+| --- | --- |
+| Arrows | Move |
+| Shift | Jump |
+| Z | Shoot |
+| R | Restart |
+| P | Pause |
+| S | Skip |
+| Backspace | Back |
+
+Controls can be remapped in *Options*. F11 toggles fullscreen. Controllers work too.
+
+**Other platforms:** [PS5](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition) | [Windows](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-windows) | [Nintendo Switch](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch) | [Android](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-android) | [itch.io](https://shmshp.itch.io/iwbtgrt)
+
+---
+
 # I Wanna Be The Guy: Remastered Tribute Edition
 
 <img src="sce_sys/icon0.png" width="128" align="right">
